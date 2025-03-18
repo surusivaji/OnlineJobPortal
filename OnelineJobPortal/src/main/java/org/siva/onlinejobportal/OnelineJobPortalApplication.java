@@ -1,0 +1,14 @@
+package org.siva.onlinejobportal;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OnelineJobPortalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OnelineJobPortalApplication.class, args);
+		System.out.println("application starts....");
+	}
+
+}
