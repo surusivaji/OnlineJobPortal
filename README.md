@@ -1,13 +1,16 @@
-# 📌 Online Job Portal
+# 🌐 Online Job Portal
 
 ### 🛠️ Technologies Used:
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) **Java**
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) **Spring Boot**
-- ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) **Spring MVC**
-- ![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black) **JSP**
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) **Bootstrap**
-- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) **Spring Data JPA**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+---
 
 ## 📄 Project Overview:
 The **Online Job Portal** is a web-based application that allows administrators to manage job listings and users to browse and apply for jobs. This application follows an MVC architecture and is built using modern web technologies for efficient performance and scalability.
@@ -30,20 +33,19 @@ The project is segregated into **4 layers**:
 ## 🌟 Features & Functionalities:
 
 ### 👤 Admin Features:
-1. **Add Jobs** - The admin can create and post new job listings by entering job details such as title, description, salary, and required skills.
-2. **View Jobs** - The admin can see all the jobs listed in the system along with relevant details.
-3. **Remove Jobs** - The admin has the ability to delete jobs that are no longer available or relevant.
-4. **Edit Jobs** - The admin can update existing job listings by modifying details as needed.
-5. **View Admin Profile** - The admin can view their personal details such as name, email, and contact information.
-6. **Edit Admin Profile** - The admin can update their profile information, such as changing passwords or updating personal details.
+- ✅ **Add Jobs** - Post job listings with details.
+- 🔍 **View Jobs** - See all listed jobs.
+- ❌ **Remove Jobs** - Delete job listings.
+- ✏️ **Edit Jobs** - Update job details.
+- 📋 **View Profile** - Access admin details.
+- ⚙️ **Edit Profile** - Update admin information.
 
-### 👨‍💼 User Features:
-1. **User Registration** - New users can sign up by providing necessary details such as name, email, phone number, and password. The data is securely stored in the database.
-2. **User Login** - Registered users can log in using their credentials to access job listings and manage their profiles.
-3. **Password Reset** - If a user forgets their password, they can reset it using their registered email and mobile number.
-4. **View Jobs** - Users can browse available job listings and see details such as job descriptions, salary, and required qualifications.
-5. **View User Profile** - Users can see their personal details, including their resume, contact details, and saved job applications.
-6. **Edit User Profile** - Users can update their details, such as modifying personal information or uploading a new resume.
+### 💼 User Features:
+- 📚 **Register** - Create an account.
+- 🔑 **Login** - Secure user authentication.
+- 🔄 **Password Reset** - Recover password using email/phone.
+- 🏢 **Browse Jobs** - View and apply for job listings.
+- 📂 **Manage Profile** - View and update user details.
 
 ## 🚀 Installation & Setup:
 ### Prerequisites:
