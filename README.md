@@ -147,5 +147,5 @@ Feel free to raise issues or submit pull requests.
 This project is **open-source** and free to use.
 
 ---
-📌 Developed by **Your Name** 👨‍💻
+📌 Developed by **Suru Sivaji** 👨‍💻
 
