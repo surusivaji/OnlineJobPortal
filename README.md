@@ -81,16 +81,64 @@ The project is segregated into **4 layers**:
 ![Home Page](index.png)
 
 ### 🔹 Registration Page:
-![Admin Dashboard](register.png)
-
-### 🔹 Admin Login Page:
-![Job Listings](adminlogin.png)
+![Registration Page](register.png)
 
 ### 🔹 Login Page:
-![User Profile](login.png)
+![Login Page](login.png)
+
+### 🔹 Forgot Password Page:
+![Forgot Password Page](forgotpassword.png)
+
+### 🔹 Change Password Page:
+![Change Password Page](changePassword.png)
+
+### 🔹 Admin Login Page:
+![Admin Login](adminlogin.png)
 
 ### 🔹 Admin Home Page:
-![Login Page](adminhome.png)
+![Admin Home](adminhome.png)
+
+### 🔹 Admin Profile Page:
+![Admin Profile](adminprofile.png)
+
+### 🔹 Edit Admin Page:
+![Edit Admin](editadminprofile.png)
+
+### 🔹 Add Job Page:
+![Add Job Page](addjob.png)
+
+### 🔹 View Jobs Page:
+![View Jobs Page](ViewJobs.png)
+
+### 🔹 Edit Job Page:
+![Edit Job Page](editjob.png)
+
+### 🔹 Delete Job Page:
+![Delete Job Page](deleteJob.png)
+
+### 🔹 Admin Logout Page:
+![Admin Logout Page](adminlogout.png)
+
+### 🔹 User Home Page:
+![User Home Page](userhome.png)
+
+### 🔹 View Profile Page:
+![Profile Page](viewProfile.png)
+
+### 🔹 Edit Profile Page:
+![edit profile Page](editprofile.png)
+
+### 🔹 All Jobs Page:
+![View Jobs Page](allJobs.png)
+
+### 🔹 Search Job Page:
+![Search Job Page](searchJobs.png)
+
+### 🔹 View Job Page:
+![View Job Page)](ViewJob.png)
+
+### 🔹 User Logout Page:
+![User Logout Page](userlogout.png)
 
 ## 🤝 Contributing:
 Feel free to raise issues or submit pull requests.
